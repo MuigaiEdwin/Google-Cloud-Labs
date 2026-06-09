@@ -1,4 +1,4 @@
-# Lab 01 — Deploy a LAMP Stack with Cloud Marketplace
+# Lab 01: Deploy a LAMP Stack with Cloud Marketplace
 
 ## Overview
 Used Google Cloud Marketplace to deploy a LAMP stack on a Compute Engine 
