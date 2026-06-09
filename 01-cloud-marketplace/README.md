@@ -39,4 +39,4 @@ web development environment for Linux launched in one click.
 ## Result
 ✅ Apache HTTP Server confirmed running on a live Compute Engine instance.
 ## Screenshot
-![LAMP Deployment](screenshots/deployment.png)
+![LAMP Deployment](./screenshots/deployment.png)
