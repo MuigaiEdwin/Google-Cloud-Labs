@@ -8,7 +8,7 @@ Hands-on Google Cloud Platform labs completed as part of the
 | # | Lab | Status |
 |---|-----|--------|
 | 01 | Cloud Marketplace | ✅ |
-| 02 | VPC Networking & Compute Engine | ⬜ |
+| 02 | VPC Networking & Compute Engine | ✅ |
 | 03 | Cloud Storage & Cloud SQL | ⬜ |
 | 04 | Hello Cloud Run | ⬜ |
 
